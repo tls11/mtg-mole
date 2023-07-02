@@ -1,0 +1,84 @@
+
+Creature 25
+1 Archon of Absolution
+1 Baird, Steward of Argive
+1 Benthic Biomancer
+1 Biomancer's Familiar
+1 Caustic Caterpillar
+1 Children of Korlis
+1 Dauntless Escort
+1 Defiant Bloodlord
+1 Fathom Mage
+1 Fleshbag Marauder
+1 Generous Patron
+1 Kenrith, the Returned King
+1 Merciless Executioner
+1 Molten Primordial
+1 Plaguecrafter
+1 Pramikon, Sky Rampart
+1 Reclamation Sage
+1 Resolute Archangel
+1 Sakura-Tribe Elder
+1 Seedborn Muse
+1 Selfless Spirit
+1 Spore Frog
+1 Springbloom Druid
+1 Vizkopa Guildmage
+1 Willbreaker
+Spell 38
+1 Altar of Dementia
+1 Beast Within
+1 Bident of Thassa
+1 Buried Alive
+1 Circuitous Route
+1 Cowardice
+1 Cultivate
+1 Dictate of Karametra
+1 Dismiss into Dream
+1 Edge of Autumn
+1 Explosive Vegetation
+1 Farseek
+1 Final Parting
+1 Frontier Siege
+1 Generous Gift
+1 Ghostly Prison
+1 Grow from the Ashes
+1 Harrow
+1 Heartstone
+1 Illusionist's Bracers
+1 Insurrection
+1 Island Sanctuary
+1 Lich's Mastery
+1 Lightning Greaves
+1 Mana Flare
+1 Mob Rule
+1 Negate
+1 Rampant Growth
+1 Reins of Power
+1 Rewind
+1 Sanguine Bond
+1 Shared Summons
+1 Sphere of Safety
+1 Swiftfoot Boots
+1 Tainted Remedy
+1 Unwind
+1 Wayfarer's Bauble
+1 Wilderness Reclamation
+Land 37
+1 Bant Panorama
+1 Blighted Woodland
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+9 Forest
+5 Island
+1 Jund Panorama
+1 Krosan Verge
+2 Mountain
+1 Myriad Landscape
+1 Naya Panorama
+5 Plains
+1 Rocky Tar Pit
+4 Swamp
+1 Terramorphic Expanse
+1 Warped Landscape

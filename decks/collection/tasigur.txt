@@ -1,0 +1,83 @@
+1 Tasigur, the Golden Fang
+Maindeck 99
+Creature 17
+1 Archaeomancer
+1 Dawntreader Elk
+1 Den Protector
+1 Diligent Farmhand
+1 Dreamscape Artist
+1 Drift of Phantasms
+1 Elvish Rejuvenator
+1 Embodiment of Spring
+1 Fertilid
+1 Mirror-Mad Phantasm
+1 Mnemonic Wall
+1 Nyx Weaver
+1 Sakura-Tribe Elder
+1 Satyr Wayfinder
+1 Skullwinder
+1 Tatyova, Benthic Druid
+1 World Shaper
+Spell 45
+1 Aetherize
+1 Aetherspouts
+1 Ancient Excavation
+1 Blue Sun's Zenith
+1 Blustersquall
+1 Chronic Flooding
+1 Codex Shredder
+1 Crawling Sensation
+1 Diabolic Tutor
+1 Dictate of Karametra
+1 Domineering Will
+1 Edge of Autumn
+1 Epiphany at the Drownyard
+1 Fact or Fiction
+1 Farseek
+1 Fascination
+1 Final Parting
+1 Forbidden Alchemy
+1 Grow from the Ashes
+1 Harrow
+1 Illusionist's Gambit
+1 Insidious Will
+1 Jace's Erasure
+1 Khalni Heart Expedition
+1 Kumena's Awakening
+1 Monastery Siege
+1 Perpetual Timepiece
+1 Perplex
+1 Plasm Capture
+1 Primal Growth
+1 Rampant Growth
+1 Read the Runes
+1 Reins of Power
+1 Rites of Flourishing
+1 Search for Tomorrow
+1 Seeds of Renewal
+1 Splendid Reclamation
+1 The Mending of Dominaria
+1 The Mirari Conjecture
+1 Villainous Wealth
+1 Wayfarer's Bauble
+1 Whelming Wave
+1 Wildest Dreams
+1 Zendikar Resurgent
+1 Zendikar's Roil
+Land 37
+1 Bant Panorama
+1 Blighted Woodland
+1 Esper Panorama
+1 Evolving Wilds
+11 Forest
+1 Grixis Panorama
+10 Island
+1 Jund Panorama
+1 Opulent Palace
+1 Simic Growth Chamber
+1 Simic Guildgate
+3 Swamp
+1 Terminal Moraine
+1 Terramorphic Expanse
+1 Thornwood Falls
+1 Warped Landscape

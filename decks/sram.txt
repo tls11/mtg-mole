@@ -1,73 +1,74 @@
+1 Sram, Senior Edificer
+1 Auriok Steelshaper
 1 Balan, Wandering Knight
-1 Armory Automaton
 1 Danitha Capashen, Paragon
 1 Foundry Inspector
 1 Grand Abolisher
+1 Heavenly Blademaster
 1 Indomitable Archangel
 1 Kemba, Kha Regent
-1 Leonin Abunas
 1 Leonin Shikari
 1 Mother of Runes
 1 Puresteel Paladin
 1 Relic Seeker
-1 Solemn Simulacrum
-1 Sram, Senior Edificer
 1 Stoneforge Mystic
 1 Stonehewer Giant
 1 Sun Titan
-1 Taj-Nar Swordsmith
+1 Accorder’s Shield
 1 Argentum Armor
 1 Basilisk Collar
-1 Batterskull
 1 Blackblade Reforged
 1 Bloodforged Battle-Axe
-1 Champion’s Helm
+1 Bone Saw
+1 Bonesplitter
+1 Cathar’s Shield
 1 Darksteel Plate
-1 Dowsing Dagger
-1 Godsend
+1 Fireshrieker
 1 Golem-Skin Gauntlets
 1 Hammer of Nazahn
-1 Hero’s Blade
-1 Inquisitor’s Flail
+1 Kite Shield
 1 Lightning Greaves
 1 Loxodon Warhammer
-1 Mask of Memory
 1 Masterwork of Ingenuity
-1 Mind Stone
-1 Quietus Spike
+1 Paradise Mantle
+1 Prying Blade
+1 Skullclamp
+1 Smuggler’s Copter
 1 Sol Ring
+1 Spidersilk Net
 1 Strata Scythe
 1 Swiftfoot Boots
 1 Sword of Feast and Famine
 1 Sword of Fire and Ice
-1 Sword of Light and Shadow
 1 Sword of Vengeance
 1 Sword of the Animist
-1 Trailblazer’s Boots
 1 Umezawa’s Jitte
-1 Whispersilk Cloak
-1 Dispatch
 1 Enlightened Tutor
 1 Path to Exile
 1 Return to Dust
 1 Swords to Plowshares
-1 Teferi’s Protection
-1 Cleansing Nova
-1 Divine Reckoning
+1 Day of Judgment
 1 Open the Armory
 1 Open the Vaults
 1 Steelshaper’s Gift
-1 Aura of Silence
-1 Ghostly Prison
+1 Wrath of God
+1 Armored Ascension
+1 Conviction
+1 Darksteel Mutation
+1 Ethereal Armor
+1 Flickering Ward
+1 Gift of Immortality
+1 Hyena Umbra
 1 Land Tax
-1 Oblivion Ring
+1 Prison Term
+1 Shielded by Faith
 1 Sigarda’s Aid
+1 Spirit Mantle
+1 Unquestioned Authority
 1 Nahiri, the Lithomancer
 1 Buried Ruin
 1 Emeria, the Sky Ruin
 1 Inventors’ Fair
-1 Myriad Landscape
+1 Reliquary Tower
 1 Rogue’s Passage
-1 Secluded Steppe
-1 Temple of the False God
-28 Plains
+27 Plains

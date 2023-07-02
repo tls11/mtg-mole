@@ -1,0 +1,86 @@
+
+Creature 10
+1 Accursed Witch
+1 Bounty Hunter
+1 Danitha Capashen, Paragon
+1 Heliod's Pilgrim
+1 Kulrath Knight
+1 Mathas, Fiend Seeker
+1 Mesa Enchantress
+1 Starfield Mystic
+1 Tiana, Ship's Caretaker
+1 Xantcha, Sleeper Agent
+Spell 53
+1 Ambition's Cost
+1 Ancient Craving
+1 Anguished Unmaking
+1 Blind Obedience
+1 Blood Reckoning
+1 Bloodthirsty Blade
+1 Boros Signet
+1 Captive Audience
+1 Cathartic Reunion
+1 Crackling Doom
+1 Cruel Reality
+1 Curse of Bloodletting
+1 Curse of Chaos
+1 Curse of Death's Hold
+1 Curse of Disturbance
+1 Curse of Exhaustion
+1 Curse of Fool's Wisdom
+1 Curse of Misfortunes
+1 Curse of Opulence
+1 Curse of Shallow Graves
+1 Curse of Stalked Prey
+1 Curse of the Nightly Hunt
+1 Curse of the Pierced Heart
+1 Curse of Thirst
+1 Curse of Vengeance
+1 Curse of Vitality
+1 Despark
+1 Diabolic Tutor
+1 Divine Reckoning
+1 Fellwar Stone
+1 Fumigate
+1 Generous Gift
+1 Ghostly Prison
+1 Hissing Miasma
+1 Marchesa's Decree
+1 Necrologia
+1 Open the Vaults
+1 Orzhov Signet
+1 Overwhelming Splendor
+1 Prismatic Lens
+1 Rakdos Signet
+1 Read the Bones
+1 Revenge of Ravens
+1 Sigil of the Empty Throne
+1 Sign in Blood
+1 Sphere of Safety
+1 Tainted Remedy
+1 Talisman of Conviction
+1 Talisman of Hierarchy
+1 Three Dreams
+1 Torment of Scarabs
+1 Trespasser's Curse
+1 Wayfarer's Bauble
+Land 37
+1 Akoum Refuge
+1 Bloodfell Caves
+1 Cinder Barrens
+1 Evolving Wilds
+1 Exotic Orchard
+1 Forsaken Sanctuary
+2 Mountain
+1 Nomad Outpost
+1 Orzhov Guildgate
+8 Plains
+1 Rakdos Guildgate
+1 Scoured Barrens
+11 Swamp
+1 Tainted Field
+1 Terramorphic Expanse
+1 Urborg Volcano
+1 Vivid Crag
+1 Vivid Marsh
+1 Vivid Meadow
